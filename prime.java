@@ -1,6 +1,6 @@
 public class prime {
     public static void main(String[] args) {
-        int num = 9;
+        int num = 20;
         boolean isPrime = true;
 
         for (int i = 2; i <= num / 2; i++) {
